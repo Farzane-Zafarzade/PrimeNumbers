@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\bin\Debug\net5.0\FindPrimeNumbers.exe
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\bin\Debug\net5.0\FindPrimeNumbers.deps.json
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\bin\Debug\net5.0\FindPrimeNumbers.runtimeconfig.json
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\bin\Debug\net5.0\FindPrimeNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\bin\Debug\net5.0\FindPrimeNumbers.dll
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\bin\Debug\net5.0\ref\FindPrimeNumbers.dll
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\bin\Debug\net5.0\FindPrimeNumbers.pdb
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\obj\Debug\net5.0\FindPrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\obj\Debug\net5.0\FindPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\obj\Debug\net5.0\FindPrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\obj\Debug\net5.0\FindPrimeNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\obj\Debug\net5.0\FindPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\obj\Debug\net5.0\FindPrimeNumbers.dll
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\obj\Debug\net5.0\ref\FindPrimeNumbers.dll
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\obj\Debug\net5.0\FindPrimeNumbers.pdb
+C:\Users\User\source\repos\FindPrimeNumbers\FindPrimeNumbers\obj\Debug\net5.0\FindPrimeNumbers.genruntimeconfig.cache
